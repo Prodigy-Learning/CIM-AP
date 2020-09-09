@@ -1,5 +1,6 @@
 {
     "name": "cim-ap",
+    "version": "1.0.0",
     "dependencies": {
         "core": "*",
         "builder": "*"
